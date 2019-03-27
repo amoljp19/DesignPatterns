@@ -1,5 +1,7 @@
 package com.softaai.designpatterns.java.factory;
 
+import com.softaai.designpatterns.kotlin.factory.FactoryPatternDemoKotlin;
+
 /**
  * Created by Amol Pawar on 27-03-2019.
  * softAai Apps
@@ -23,5 +25,9 @@ public class FactoryPatternDemo {
 
         Shape circleShape = shapeFactory.getShape("circle");
         circleShape.draw();
+
+        // For kotlin code test
+        FactoryPatternDemoKotlin factoryPatternDemo = new FactoryPatternDemoKotlin();
+        factoryPatternDemo.main(new String[]{""});
     }
 }
