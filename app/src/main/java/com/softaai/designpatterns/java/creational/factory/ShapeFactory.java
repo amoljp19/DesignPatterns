@@ -1,4 +1,4 @@
-package com.softaai.designpatterns.java.factory;
+package com.softaai.designpatterns.java.creational.factory;
 
 /**
  * Created by Amol Pawar on 27-03-2019.

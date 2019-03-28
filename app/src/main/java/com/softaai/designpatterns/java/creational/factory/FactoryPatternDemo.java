@@ -1,6 +1,6 @@
-package com.softaai.designpatterns.java.factory;
+package com.softaai.designpatterns.java.creational.factory;
 
-import com.softaai.designpatterns.kotlin.factory.FactoryPatternDemoKotlin;
+import com.softaai.designpatterns.kotlin.creational.factory.FactoryPatternDemoKotlin;
 
 /**
  * Created by Amol Pawar on 27-03-2019.

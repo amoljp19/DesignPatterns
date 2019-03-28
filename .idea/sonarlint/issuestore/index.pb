@@ -19,3 +19,15 @@ l
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 Å
 Qapp/src/main/java/com/softaai/designpatterns/java/factory/FactoryPatternDemo.java,2\9\29dbc669ef1e43419116cb1476f745c815496140
+t
+Dapp/src/main/java/com/softaai/designpatterns/kotlin/factory/Shape.kt,1\d\1db75e80ed72fa0c8779b71f2d6d14f3f1535fc4
+u
+Eapp/src/main/java/com/softaai/designpatterns/kotlin/factory/Circle.kt,e\f\ef4ad7354b789b3bcdfd8a8c54f9731597f2cd65
+x
+Happ/src/main/java/com/softaai/designpatterns/kotlin/factory/Rectangle.kt,9\3\933827363a6aa7208801573149b808244f397e65
+u
+Eapp/src/main/java/com/softaai/designpatterns/kotlin/factory/Square.kt,7\a\7abf17e74fa6fbe208581277bc0e7241460bb464
+{
+Kapp/src/main/java/com/softaai/designpatterns/kotlin/factory/ShapeFactory.kt,4\2\4288b443437244f0202b8ad4566b38a66e06de73
+á
+Wapp/src/main/java/com/softaai/designpatterns/kotlin/factory/FactoryPatternDemoKotlin.kt,5\b\5b525d68a4ea865b06628190e3933aeedfdba482

@@ -1,4 +1,4 @@
-package com.softaai.designpatterns.kotlin.factory
+package com.softaai.designpatterns.kotlin.creational.factory
 
 
 /**
