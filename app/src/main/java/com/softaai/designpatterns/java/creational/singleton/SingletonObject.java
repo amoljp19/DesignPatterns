@@ -1,4 +1,4 @@
-package com.softaai.designpatterns.kotlin.creational.singleton;
+package com.softaai.designpatterns.java.creational.singleton;
 
 /**
  * Created by Amol Pawar on 29-03-2019.
