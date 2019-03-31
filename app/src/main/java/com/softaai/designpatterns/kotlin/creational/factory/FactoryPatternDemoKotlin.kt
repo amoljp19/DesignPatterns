@@ -16,7 +16,7 @@ class FactoryPatternDemoKotlin {
         val squareShape = shapeFactory.getShape("Square")
         squareShape?.draw()
 
-        var circleShape = shapeFactory.getShape("Circle")
+        val circleShape = shapeFactory.getShape("Circle")
         circleShape?.draw()
     }
 }

@@ -143,6 +143,101 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/AbstractFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/AbstractFactoryDemo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/AbstractFactoryPatternDemo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/FactoryProducer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/Blue.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/Circle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/Color.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/ColorFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/Green.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/Rectangle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/Red.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/Shape.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/ShapeFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/color/Square.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/shape/Circle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/shape/Rectangle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/shape/Shape.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/shape/ShapeFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/shape/Square.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/factory/Circle.kt">
           <value>
             <set />
