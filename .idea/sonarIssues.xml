@@ -338,6 +338,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/composite/CompositeDesignPatternDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/composite/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/creational/AbstractFactory/AbstractFactory.kt">
           <value>
             <set />
@@ -709,6 +719,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/bridge/Shape.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/composite/CompositeDesignPatternDemo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/composite/Employee.kt">
           <value>
             <set />
           </value>
