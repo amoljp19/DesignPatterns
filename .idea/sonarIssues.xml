@@ -348,6 +348,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/decorator/Circle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/decorator/DecoratorPatternDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/decorator/Rectangle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/decorator/RedShapeDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/decorator/Shape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/decorator/ShapeDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/facade/Circle.java">
           <value>
             <set />
@@ -829,6 +859,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/composite/Employee.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/decorator/Circle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/decorator/DecoratedDesignPatternDemo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/decorator/Rectangle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/decorator/RedShapeDecorator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/decorator/Shape.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/decorator/ShapeDecorator.kt">
           <value>
             <set />
           </value>
