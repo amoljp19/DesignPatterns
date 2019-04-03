@@ -1,0 +1,32 @@
+package com.softaai.designpatterns.java.structural.facade;
+
+/**
+ * Created by Amol Pawar on 03-04-2019.
+ * softAai Apps
+ */
+
+// This is our Facade class
+public class ShapeMaker {
+    private Shape rectangle;
+    private Shape square;
+    private Shape circle;
+
+    public ShapeMaker(){
+        rectangle = new Rectangle();
+        square = new Square();
+        circle = new Circle();
+    }
+
+    public void drawRectangle(){
+        rectangle.draw();
+    }
+
+    public void drawSquare(){
+        square.draw();
+    }
+
+    public void drawCircle(){
+        circle.draw();
+    }
+}
+
