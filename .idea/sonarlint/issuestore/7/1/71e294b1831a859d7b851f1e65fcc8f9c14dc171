@@ -1,6 +1,6 @@
 
-squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(íí¨Ş8°€ªş-
 Gsquid:S1659
 "$Declare "radius" on a separate line.(…¢…€üÿÿÿÿ8£µ¨ş-
+squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(íí¨Ş8°€ªş-
 Bsquid:S1659
 "Declare "y" on a separate line.(…¢…€üÿÿÿÿ8£µ¨ş-

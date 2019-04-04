@@ -408,6 +408,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/flyweight/Circle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/flyweight/FlyweightPatternDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/flyweight/Shape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/flyweight/ShapeFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/java/structural/proxy/Image.java">
           <value>
             <set />
@@ -889,6 +909,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/decorator/ShapeDecorator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/flyweight/Circle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/flyweight/FlyWeightDesignPattern.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/flyweight/Shape.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/softaai/designpatterns/kotlin/structural/flyweight/ShapeFactory.kt">
           <value>
             <set />
           </value>
