@@ -1,0 +1,15 @@
+
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(í¡êÈ8­»ğĞ-
+Nsquid:S1444
+"+Make this "public static ERROR" field final(­ º¹ûÿÿÿÿ8ëêßĞ-
+Š"squid:ClassVariableVisibilityCheck"PMake INFO a static final constant or non-public and provide accessors if needed.(‹‡ßœÿÿÿÿÿ8ëêßĞ-
+rsquid:S3008"ORename this field "INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‡ßœÿÿÿÿÿ8ëêßĞ-
+ssquid:S3008
+"PRename this field "ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ º¹ûÿÿÿÿ8ëêßĞ-
+Msquid:S1444"*Make this "public static INFO" field final(‹‡ßœÿÿÿÿÿ8ëêßĞ-
+‹"squid:ClassVariableVisibilityCheck
+"QMake ERROR a static final constant or non-public and provide accessors if needed.(­ º¹ûÿÿÿÿ8ëêßĞ-
+Osquid:S1444	",Make this "public static DEBUGE" field final(÷É¦øÿÿÿÿ8ëêßĞ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş‚ş¢úÿÿÿÿ
+tsquid:S3008	"QRename this field "DEBUGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷É¦øÿÿÿÿ8ëêßĞ-
+Œ"squid:ClassVariableVisibilityCheck	"RMake DEBUGE a static final constant or non-public and provide accessors if needed.(÷É¦øÿÿÿÿ8ëêßĞ-
